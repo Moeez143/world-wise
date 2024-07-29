@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Monterde de Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T14:25:34.417Z",
+      "notes": "fds",
+      "position": {
+        "lat": "40.463666324587685",
+        "lng": "-1.4941406250000002"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-20T14:29:11.950Z",
+      "notes": "",
+      "position": {
+        "lat": "39.33429742980725",
+        "lng": "-4.833984375000001"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Bonita",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-20T14:29:42.819Z",
+      "notes": "",
+      "position": {
+        "lat": "32.61161640317033",
+        "lng": "-110.21484375"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Lahore Cantonment Tehsil",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-05-20T14:30:57.765Z",
+      "notes": "",
+      "position": {
+        "lat": "31.521190820141896",
+        "lng": "74.40319061279298"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Santa Maria Maior",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T16:32:17.735Z",
+      "notes": "",
+      "position": {
+        "lat": "38.70327169633394",
+        "lng": "-9.13434712216258"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Lahore City Tehsil",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-05-20T17:29:22.239Z",
+      "notes": "tur Jaa",
+      "position": {
+        "lat": "31.530325683952647",
+        "lng": "74.29328135091056"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Fundada",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-20T17:34:21.715Z",
+      "notes": "teststssts",
+      "position": {
+        "lat": "39.7240885773337",
+        "lng": "-8.195800781250002"
+      },
+      "id": 73930393
+    }
+  ]
+}
