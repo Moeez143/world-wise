@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Monterde de Albarracin",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-05-20T14:25:34.417Z",
-      "notes": "fds",
-      "position": {
-        "lat": "40.463666324587685",
-        "lng": "-1.4941406250000002"
-      },
-      "id": 73930386
-    },
-    {
       "cityName": "Helechosa de los Montes",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,18 +23,6 @@
         "lng": "-110.21484375"
       },
       "id": 73930388
-    },
-    {
-      "cityName": "Lahore Cantonment Tehsil",
-      "country": "Pakistan",
-      "emoji": "🇵🇰",
-      "date": "2024-05-20T14:30:57.765Z",
-      "notes": "",
-      "position": {
-        "lat": "31.521190820141896",
-        "lng": "74.40319061279298"
-      },
-      "id": 73930389
     },
     {
       "cityName": "Santa Maria Maior",
@@ -73,16 +49,16 @@
       "id": 73930392
     },
     {
-      "cityName": "Fundada",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-05-20T17:34:21.715Z",
-      "notes": "teststssts",
+      "cityName": "Muzaffargarh",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-09-25T17:09:41.572Z",
+      "notes": "",
       "position": {
-        "lat": "39.7240885773337",
-        "lng": "-8.195800781250002"
+        "lat": "30.109456325412825",
+        "lng": "71.27929687500001"
       },
-      "id": 73930393
+      "id": 73930395
     }
   ]
 }

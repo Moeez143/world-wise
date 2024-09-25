@@ -9,7 +9,7 @@ import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
 import City from "./components/City";
 import From from "./components/Form";
-import SpinnerFullPage from './components/SpinnerFullPage';
+import SpinnerFullPage from "./components/SpinnerFullPage";
 
 // import Homepage from "./pages/Homepage";
 // import Product from "./pages/Product";
